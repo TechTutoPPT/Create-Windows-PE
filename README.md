@@ -1,4 +1,4 @@
-[![](https://github.com/TechTutoPPT/Create-Windows-PE/blob/main/IMG_8273.PNG)](https://youtu.be/7c2HJU334oo)
+[![](https://github.com/TechTutoPPT/Create-Windows-PE/blob/main/IMG_8273.PNG)](https://youtu.be/9Z9n4G8x5as)
 
 按以下劇本製作影片, 使用女聲講解, 劇本中的指令是觀眾按步驟重現結果的依據, 所以畫面要完整顯示指令內容.
 劇本內容:
